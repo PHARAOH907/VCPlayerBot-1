@@ -1,0 +1,19 @@
+
+{
+    "name": "VCPlayerBot-1",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "start": "main.py"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/PHARAOH907/VCPlayerBot-1.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/PHARAOH907/VCPlayerBot-1/issues"
+    },
+    "homepage": "https://github.com/PHARAOH907/VCPlayerBot-1#readme"
+}
